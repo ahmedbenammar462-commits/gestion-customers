@@ -53,7 +53,7 @@ Une petite application Node.js/Express pour **gérer des clients (customers)** :
 
 2. Installer les dépendances :
   npm install
-3. Lance le projet
+3. Lance le projet :
 npm start 
      
 
